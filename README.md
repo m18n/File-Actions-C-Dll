@@ -1,3 +1,3 @@
 # File-Actions-C-Dll
 This library is designed to work with files.<br/>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Jbcpq8gCGPs/0.jpg)](https://www.youtube.com/watch?v=Jbcpq8gCGPs)
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=Jbcpq8gCGPs)](https://www.youtube.com/watch?v=Jbcpq8gCGPs)
