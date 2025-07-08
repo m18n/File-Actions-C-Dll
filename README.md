@@ -1,4 +1,4 @@
-# FileLibrary
+# FILELIBRARY
 
 A C library for file and directory operations on Windows systems, providing a comprehensive set of functions for both ANSI (A) and Unicode (W) character sets.
 
@@ -14,6 +14,8 @@ FileLibrary is a Windows-specific library that offers a convenient API for commo
 - Size querying for files and directories
 
 The library supports both ANSI and Unicode character sets, with parallel functions designated by 'A' and 'W' suffixes respectively.
+
+This project was created by me in 2020.
 
 ## Data Structures
 
